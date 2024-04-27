@@ -1,6 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2024-04-27T20:55:15.583Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" version="24.3.1" etag="zpQZ4Z4R_vXE7J_tVTeS" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-27T21:06:36.253Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="TH3TUHHURgegUCPSVqXE" version="24.3.1" type="github" pages="2">
   <diagram name="Página-1" id="avZCTds79e3m_lLNLz68">
-    <mxGraphModel>
+    <mxGraphModel dx="661" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HVLiJQEtYzFBSewE_8Yt-1" value="projetos" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="40" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="HVLiJQEtYzFBSewE_8Yt-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HVLiJQEtYzFBSewE_8Yt-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HVLiJQEtYzFBSewE_8Yt-2" value="insumos" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="370" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="HVLiJQEtYzFBSewE_8Yt-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HVLiJQEtYzFBSewE_8Yt-3" target="HVLiJQEtYzFBSewE_8Yt-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HVLiJQEtYzFBSewE_8Yt-3" value="Forcenedores" style="swimlane;whiteSpace=wrap;html=1;startSize=23;" vertex="1" parent="1">
+          <mxGeometry x="410" y="370" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="HVLiJQEtYzFBSewE_8Yt-5" value="1..*" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="430" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HVLiJQEtYzFBSewE_8Yt-6" value="0..*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="190" y="250" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HVLiJQEtYzFBSewE_8Yt-8" value="0..*" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HVLiJQEtYzFBSewE_8Yt-9" value="0..*" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="430" width="40" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="3s61rRbeCLxwnUmC8zYj" name="Página-2">
+    <mxGraphModel dx="661" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
