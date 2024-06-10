@@ -1,9 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2024-06-10T11:44:57.091Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="24.3.1" etag="i5HNRaLq7lybsf4MOmfi" type="github">
-  <diagram name="Página-1" id="fQhr82jezIVuV8n5K_sh">
-    <mxGraphModel>
+<mxfile host="app.diagrams.net" modified="2024-06-10T23:32:42.694Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="XqaWDGXJQ_CHLseX-mgD" version="24.5.2" type="github">
+  <diagram name="13" id="fQhr82jezIVuV8n5K_sh">
+    <mxGraphModel dx="1290" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="IBQ0sPaAjgqxp4voNF-X-5" value="Plano" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="60" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="IBQ0sPaAjgqxp4voNF-X-7" value="codigo&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="IBQ0sPaAjgqxp4voNF-X-5">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IBQ0sPaAjgqxp4voNF-X-9" value="encerramento vendas&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="IBQ0sPaAjgqxp4voNF-X-5">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IBQ0sPaAjgqxp4voNF-X-8" value="nome mercado" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="IBQ0sPaAjgqxp4voNF-X-5">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
