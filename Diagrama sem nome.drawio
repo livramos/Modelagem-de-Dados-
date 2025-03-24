@@ -1,9 +1,33 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.2">
   <diagram name="Página-1" id="8WbBfZupA4y9QHdg4unH">
-    <mxGraphModel>
+    <mxGraphModel dx="1034" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="eBv_936KXefOByxpci5f-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="330" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="eBv_936KXefOByxpci5f-4" value="principal" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="365" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eBv_936KXefOByxpci5f-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="130" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="eBv_936KXefOByxpci5f-6" value="Professor" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="185" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eBv_936KXefOByxpci5f-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="130" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="eBv_936KXefOByxpci5f-8" value="Exercício" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="365" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eBv_936KXefOByxpci5f-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="130" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="eBv_936KXefOByxpci5f-10" value="Aluno" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="525" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
